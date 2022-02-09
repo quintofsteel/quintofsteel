@@ -1,7 +1,7 @@
 
 ## Hello there, I'm Quint <img src="https://raw.githubusercontent.com/quintofsteel/quintofsteel/master/wave.gif" width="30px">
 - 💻🏛 Currently pursuing my BSc degree in **Computer Science** from [The Univesity of South Africa](https://https://www.unisa.ac.za/)
-- 🌱 I'm currently learning Fullstack Web Development
+- 🌱 I'm currently learning Cloud Security
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am always open to collaborating on projects and ideas. 
 Find out more about me & feel free to connect with me here:
 
