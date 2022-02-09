@@ -1,12 +1,12 @@
 
 ## Hello there, I'm Quint <img src="https://raw.githubusercontent.com/quintofsteel/quintofsteel/master/wave.gif" width="30px">
-- 💻🏛 Currently pursuing my BSc degree in **Computer Science** from [The Univesity of South Africa](https://https://www.unisa.ac.za/)
-- 🌱 I'm currently learning Cloud Security
+- 💻🏛 BSc **Computer Science** Student at [The Univesity of South Africa](https://https://www.unisa.ac.za/)
+- 🌱 Currently learning Cloud Security
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am always open to collaborating on projects and ideas. 
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-quintofsteel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chamisapride/)](https://www.linkedin.com/in/chamisapride/)
-[![Gmail Badge](https://img.shields.io/badge/-qcharmzone@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qcharmzone@protonmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-qcharmzone@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qcharmzone@protonmail.com)](mailto:qcharmzone@protonmail.com)
 
 ## ⚡ Technologies
 
