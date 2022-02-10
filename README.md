@@ -1,6 +1,6 @@
 ## <img src=header4.png>
 <!--## Hello there, this is Pride <img src="https://raw.githubusercontent.com/quintofsteel/quintofsteel/master/wave.gif" width="30px">  -->
-- 💻🏛 BSc **Computer Science** Student at [The Univesity of South Africa](https://https://www.unisa.ac.za/)
+- 💻🏛 Software Developer and Final year BSc **Computer Science** Student at [The Univesity of South Africa](https://https://www.unisa.ac.za/)
 - 🌱 Currently learning Cloud Security
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am always open to collaborating on projects and ideas. 
 Find out more about me & feel free to connect with me here:
