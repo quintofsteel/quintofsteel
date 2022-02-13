@@ -1,4 +1,4 @@
-## <img src=header4.png>
+## <img src=header5.png>
 <!--## Hello there, this is Pride <img src="https://raw.githubusercontent.com/quintofsteel/quintofsteel/master/wave.gif" width="30px">  -->
 - 💻🏛 Software Developer and Final year BSc **Computer Science** Student at [The Univesity of South Africa](https://https://www.unisa.ac.za/)
 - 🌱 Currently learning Cloud Security
