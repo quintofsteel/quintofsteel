@@ -26,8 +26,5 @@ Find out more about me & feel free to connect with me here:
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2018%20mins-purple)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-150-purple)
-
-
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=quintofsteel&count_private=true&show_icons=true&include_all_commits=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quintofsteel&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quintofsteel&layout=compact)
