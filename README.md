@@ -6,13 +6,13 @@
 <br>
 <h1 align="center" href="https://medium.com/@diego.hurtado.olivares/linear-regression-from-scratch-15bfd15dc2e" > Linear Regression Model Representation & Implementation From Scratch in Python </h1>
 
-<a href="https://www.kaggle.com/code/diegohurtadoo/house-price-prediction-top-12-leaderboard" target="blank"><img height="460" width="460" align="right" src="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python/blob/main/Figures/regression_result1.png?raw=true" /></a>
+<a href="https://www.kaggle.com/pchamisa" target="blank"><img height="460" width="460" align="right" src="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python/blob/main/Figures/regression_result1.png?raw=true" /></a>
 
 <h3 align="left">Summary:</h3>
 Linear Regression Model Representation & Implementation From Scratch using Python
 <h3 align="left">Check it here:</h3>
-<a href="https://www.kaggle.com/code/diegohurtadoo/house-price-prediction-top-12-leaderboard" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
-<a href="https://medium.com/@diego.hurtado.olivares/linear-regression-from-scratch-15bfd15dc2e" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/pchamisa" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://medium.com/@pchamisa" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
 <br>
 </p>
  
@@ -47,10 +47,10 @@ Linear Regression Model Representation & Implementation From Scratch using Pytho
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
  
- <h1 align="center" href="https://medium.com/p/b088390ce0f0" > Customer Churn Prediction Using Machine Learning Models: </h1>
+ <h1 align="center" href="https://medium.com/@pchamisa" > Customer Churn Prediction Using Machine Learning Models: </h1>
 
 <p>
-  <a href="[https://medium.com/p/b088390ce0f0](https://github.com/DiegoHurtad0/DataSciencePortfolio/tree/main/Churn_Prediction)"><img width="500" height="500" align='right' src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*iX7VFtO1XmKuNhzk4ddg7A.png"></a>
+  <a href="[https://medium.com/@pchamisa](https://github.com/DiegoHurtad0/DataSciencePortfolio/tree/main/Churn_Prediction)"><img width="500" height="500" align='right' src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*iX7VFtO1XmKuNhzk4ddg7A.png"></a>
 </p>
 
 <h3 align="left">Summary:</h3>
@@ -58,8 +58,8 @@ Linear Regression Model Representation & Implementation From Scratch using Pytho
 ▪️ Predict whether a customer will churn using machine learning models
 
 <h3 align="left">Check it here:</h3>
-<a href="https://www.kaggle.com/code/diegohurtadoo/telco-churn-prediction-using-lstm-96-accuracy" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
-<a href="https://medium.com/p/b088390ce0f0" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/pchamisa" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<a href="https://medium.com/pchamisa" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="quintofsteel" height="30" width="40" /></a>
 <br>
 <h3 align="left">Languages:</h3>
 <a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
@@ -78,15 +78,15 @@ Linear Regression Model Representation & Implementation From Scratch using Pytho
  
 | Challenge                | Models       | Score | Link                                              |
 |--------------------------|--------------|-------|---------------------------------------------------|
-| Custumer Churn Prediction   | LSTM         | 96%   | [Repository]([https://github.com/username/repo1](https://www.kaggle.com/code/diegohurtadoo/telco-churn-prediction-using-lstm-96-accuracy))   |
-| Telco Customer Churn     | LSTM         | 81%   | [Repository]([https://github.com/username/repo2](https://www.kaggle.com/code/diegohurtadoo/custumer-churn-prediction-lstm-81-accuracy))   |
+| Custumer Churn Prediction   | LSTM         | 96%   | [Repository]([https://github.com/username/repo1](https://www.kaggle.com/pchamisa))   |
+| Telco Customer Churn     | LSTM         | 81%   | [Repository]([https://github.com/username/repo2](https://www.kaggle.com/pchamisa))   |
  
  
  
  <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 
 <br>
-<h1 align="center" href="https://medium.com/@diego.hurtado.olivares/predicting-taxi-fare-in-new-york-city-c5dd4aef55f4" > Predict Taxi Fare in NY using Machine Learning Techniques </h1>
+<h1 align="center" href="https://medium.com/@pchamisa" > Predict Taxi Fare in NY using Machine Learning Techniques </h1>
 
 <a href="https://medium.com/@diego.hurtado.olivares/predicting-taxi-fare-in-new-york-city-c5dd4aef55f4" target="blank"><img height="460" width="460" align="right" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*6xnHYe__u8xiJWm_KsWgMw.png" /></a>
 
