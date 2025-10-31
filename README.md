@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/Urmi%20Banner.png" alt="Urmi Banner" width="100%">
 </p>
 
-# 👋 Hi, I’m Urmi!
+# 👋 Hi, I’m Pride!
 
-🎓 Biomedical Engineer passionate about advancing **AI-driven Medical Imaging**.  
+🎓 Data Scientist passionate about advancing **AI-driven Medical Imaging**.  
 🔬 I build and evaluate **deep learning pipelines** for explainable diagnosis and quantitative MRI biomarker estimation.  
 
 ---
