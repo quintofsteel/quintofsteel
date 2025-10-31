@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uromi06/uromi06/main/Urmi%20Banner.png" alt="Urmi Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/quintofsteel/quintofsteel/refs/heads/main/pride-banner.png" alt="Pride Banner" width="100%">
 </p>
 
 # 👋 Hi, I’m Pride!
